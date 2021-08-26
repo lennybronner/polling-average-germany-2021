@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 .DS_Store
 .Rhistory
 env/
@@ -10,3 +8,5 @@ polls/*
 !polls/.placeholder
 src/polling_average.R
 src/polling_average_gam.R
+.Rproj.user
+.env
